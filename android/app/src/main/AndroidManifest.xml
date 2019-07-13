@@ -14,7 +14,7 @@
         android:label="saarthi"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBUhdW0u-FebgdzrqEGhfPLY7Fru-P9y2o"/>
+            android:value="API_KEY"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
